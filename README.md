@@ -1,8 +1,8 @@
-## データサイエンティスト スキルチェックリスト ver3.01 (CSV版)
+## データサイエンティスト スキルチェックリスト ver4 (CSV版)
 「データサイエンティスト スキルチェックリスト」は、データサイエンティストに必要とされるスキルをチェックリスト化したものです。チェックリスト内の各項目のスキルレベルは、★の数によって示し、見習いレベル（Assistant Data Scientist）~ 棟梁レベル（Full Data Scientist）までを判定します。    
 
 チェックリストの詳細はこちら  
-https://www.datascientist.or.jp/common/docs/skillcheck_ver3.00.pdf
+https://www.datascientist.or.jp/symp/2021/pdf/20211116_1400-1600_skill.pdf
 
 このリポジトリではマシンリーダブルな形式としてCSV版チェックリストを公開しています。  
 
@@ -13,7 +13,7 @@ Web上で簡単にチェックリストを参照したい場合は、以下の�
 ## ダウンロード
 チェックリストのダウンロードは以下リンクをご利用ください
 * Excel版
-  * https://www.datascientist.or.jp/common/docs/skillcheck_ver3.00.xlsx
+  * https://www.datascientist.or.jp/common/docs/skillcheck_ver4.00_simple.xlsx
 * CSV版
   * ビジネス力
     * https://raw.githubusercontent.com/The-Japan-DataScientist-Society/skills-checklist/master/biz.csv
