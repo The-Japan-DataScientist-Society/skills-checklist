@@ -5,4 +5,5 @@ description = "Convert Excel skills checklist to CSV"
 dependencies = [
     "openpyxl>=3.0",
     "pandas>=2.0",
+    "polars>=1.0",
 ]
