@@ -1,0 +1,11 @@
+[project]
+name = "skills-checklist-convert"
+version = "0.1.0"
+description = "Convert Excel skills checklist to CSV"
+requires-python = ">=3.11"
+dependencies = [
+    "openpyxl>=3.0",
+    "pandas>=2.0",
+    "pandera>=0.20",
+    "polars>=1.0",
+]
